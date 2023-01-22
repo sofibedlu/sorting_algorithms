@@ -2,6 +2,7 @@
 
 /**
  * bubble_sort - bubble sorting algorithm
+ *
  * @array: the array to be sorted
  * @size: the number of elements in @array
  */
